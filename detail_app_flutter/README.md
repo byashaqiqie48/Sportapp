@@ -1,5 +1,5 @@
 # Sportapp ( Tugas 3 - OSG05 )
-Aplikasi untuk mereview lomba-lomba di 17 agustus . Kumpulan lomba lomba bertema kemerdekaan.
+Aplikasi untuk mereview alat-alat olahraga.
 
 ### Screenshot
 ![Flutter Apps](https://i.ibb.co/cxJj3Kv/q.jpg)
